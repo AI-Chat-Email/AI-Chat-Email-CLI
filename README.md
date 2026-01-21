@@ -1,2 +1,3 @@
-# MailPilotBlack
-MailPilot binary releases. 
+# AI-Chat.Email CLI  
+
+Binary releases. 
